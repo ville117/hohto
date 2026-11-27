@@ -1,5 +1,6 @@
 # Hohto
 a 3D renderer made in [Rust](https://rust-lang.org/) & for fun!
+> If the program doesn't work or you encounter any other problems, please report it here [Issues](https://github.com/ville117/hohto/issues)
 
 ## Requirments
 + [Rust](https://rust-lang.org/)
