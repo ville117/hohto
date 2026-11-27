@@ -9,6 +9,15 @@ GPU with [Vulkan](https://www.vulkan.org/) drivers that support
 + Dynamic rendering
 + [`VK_EXT_shader_object`](https://docs.vulkan.org/refpages/latest/refpages/source/VK_EXT_shader_object.html)
 + [`slangc`](https://github.com/shader-slang/slang) available on `PATH`
++ [Git](https://git-scm.com/)
++ [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+
+## Building
+```
+git clone https://github.com/ville117/hohto.git
+cd hohto
+cargo build --release
+```
 
 ## License
 ### Licensed under the MIT License...
