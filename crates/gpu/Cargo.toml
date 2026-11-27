@@ -1,0 +1,17 @@
+[package]
+name = "gpu"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tracing.workspace = true
+ash = "0.38.0"
+gpu-allocator = "0.28.0"
+ash-window = "0.13.0"
+raw-window-handle = { version = "0.6.2", features = ["std"] }
+bytemuck = { version = "1.25.2", features = ["derive"] }
+thiserror = "2.0.21"
+parking_lot = "0.13.0"
+
+[lints]
+workspace = true
