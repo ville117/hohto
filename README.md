@@ -11,4 +11,5 @@ GPU with [Vulkan](https://www.vulkan.org/) drivers that support
 + [`slangc`](https://github.com/shader-slang/slang) available on `PATH`
 
 ## License
-### Licensed under the MIT License. See [LICENSE](LICENSE) for details.
+### Licensed under the MIT License...
++ See [LICENSE](LICENSE) for details...
