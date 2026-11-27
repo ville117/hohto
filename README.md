@@ -18,7 +18,7 @@ git clone https://github.com/ville117/hohto.git
 cd hohto
 cargo build --release
 ```
-> If the program doesn't work or you encounter any other problems, please report it here [Issues](https://github.com/ville117/hohto/issues)
+> If the program doesn't work or you encounter any other problems, please report it here: [Issues](https://github.com/ville117/hohto/issues)
 
 ## License
 ### Licensed under the MIT License...
