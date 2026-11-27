@@ -5,7 +5,7 @@ a 3D renderer made in [Rust](https://rust-lang.org/) & for fun!
 + [Rust](https://rust-lang.org/)
 + [Git](https://git-scm.com/)
 + [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
-+ GPU with [Vulkan](https://www.vulkan.org/) drivers that support
++ a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) with [Vulkan](https://www.vulkan.org/) drivers that support
   + Vulkan 1.3
   + Buffer device address
   + Dynamic rendering
