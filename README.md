@@ -10,6 +10,7 @@ a 3D renderer made in [Rust](https://rust-lang.org/) & for fun!
   + [`VK_EXT_shader_object`](https://docs.vulkan.org/refpages/latest/refpages/source/VK_EXT_shader_object.html)
   + [`slangc`](https://github.com/shader-slang/slang) available on `PATH`
 <hr>
+
 + [Git](https://git-scm.com/)
 + [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
