@@ -1,5 +1,5 @@
 # Hohto <img width="32" height="23" alt="hohto-logo" src="https://github.com/user-attachments/assets/53a5ce69-0fc1-4cd0-9494-794a7ea7db2b" />
-a 3D renderer made in [Rust](https://rust-lang.org/) & for fun!
+a 3D renderer made in [Rust](https://rust-lang.org/) for fun!
 > [!IMPORTANT] 
 > Hohto is under active development, so keep in mind that some versions may be broken!
 
